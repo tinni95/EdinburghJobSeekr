@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Edinburgh Job Finder </title>
+		<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+					<link rel="stylesheet" href="css/style.css" >
+						<script src="http://code.jquery.com/jquery-3.1.1.js"></script>
+						<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+						<script src="Jquery/Jquery.js"></script>
+						</head>
+						<body>
+							<div id="mySidenav" class="sidenav">
+								<div class="green">
+									<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+								</div>
+								<div class="container sidenav-header">
+									<h2 style="text-align:center;color:white;">Find jobs in:</h2>
+								</div>
+								<ul id="sources">
+									<li>
+										<button class="Finance" onclick="setTimeout('closeNav()', 400)">Finance</button>
+									</li>
+									<li>
+										<button class="Sales" onclick="setTimeout('closeNav()', 400)">Sales</button>
+									</li>
+									<li>
+										<button class="IT" onclick="setTimeout('closeNav()', 400)">IT</button>
+									</li>
+									<li>
+										<button class="All" onclick="setTimeout('closeNav()', 400)">All</button>
+									</li>
+									<li>
+										<button class="Catering" onclick="setTimeout('closeNav()', 400)">Catering</button>
+									</li>
+									<li>
+										<button class="Education" onclick="setTimeout('closeNav()', 400)">Education</button>
+									</li>
+									<li>
+										<button class="Engineering" onclick="setTimeout('closeNav()', 400)">Engineering</button>
+									</li>
+								</ul>
+							</div>
+							<div class="container one">
+								<div class="blue">
+									<h4 style="text-align:center;font-size:300%;color:white;">
+										<b>Jobs in 
+											<span id="jobType"></span>
+										</b>
+									</h4>
+									<br>
+									</div>
+								</div>
+								<div class="container two" >
+									<div class="tohide">
+										<ul id="resources">
+											<li>
+												<button class="Finance">Finance</button>
+											</li>
+											<li>
+												<button class="Sales">Sales</button>
+											</li>
+											<li>
+												<button class="IT">IT</button>
+											</li>
+											<li>
+												<button class="All">All</button>
+											</li>
+											<li>
+												<button class="Catering">Catering</button>
+											</li>
+											<li>
+												<button class="Education">Education</button>
+											</li>
+											<li>
+												<button class="Engineering">Engineering</button>
+											</li>
+										</ul>
+									</div>
+									<span class="toggle"  onclick="openNav()">&#9776; </span>
+								</div>
+								<div class="container" >
+									<div id="content" >
+										</div>
+										<div class="loader-wrapper">
+											<img class="loader" src="images/loader.gif" alt="Loader">
+												<Img src="images/up.png" id="scrollTop" alt="upArrow">
+												</div>
+											</div>
+											<footer class="text-center" style="color:white;padding-bottom:5px;padding-top:0px;">
+												   <hr style="margin-bottom:5px;">
+												   © 2016  EdinburghJobSeeker  &nbsp; | &nbsp;
+												    gd21@hw.ac.uk  &nbsp; | &nbsp;
+
+													<a href="https://www.hw.ac.uk/study/uk/undergraduate/computer-science.htm">CS</a> &nbsp; | &nbsp;
+
+													<a href="https://www.hw.ac.uk/schools/mathematical-computer-sciences/index.htm">MACS</a>   &nbsp; | &nbsp;
+
+													<a href="https://www.hw.ac.uk/">Heriot Watt University</a>   &nbsp; | &nbsp; 
+
+													<a href="http://edinburgh.org/">Edinburgh</a>   &nbsp; | &nbsp;
+
+													<a href="http://www.scotland.org/">Scotland</a>   &nbsp; | &nbsp;
+
+													<a href="http://www.visitbritain.com/en/EN/">UK</a>
+												</footer>
+											</body>
+										</html>

@@ -1,0 +1,262 @@
+body {
+  background: url('../images/edinburgh.jpg') no-repeat  center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+hr {
+  border: 1 px solid grey;
+}
+
+#content {
+  border: 4px solid black;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  padding-top: 2%;
+  color: black;
+  background: rgba(255,255,255,0.9);
+}
+
+.blue {
+  padding-top: 10px;
+  background: rgba(0,0,0,0.73);
+}
+
+.container .one {
+  padding-top: 0;
+}
+
+#resources {
+  text-align: center;
+  width: 100%;
+  list-style: none;
+  float: left;
+  color: white;
+  padding-right: 5%;
+  background: rgba(76, 175, 80, 0.88);
+}
+
+.green {
+  background-color: rgba(255,255,255,0.9);
+  height: 48px;
+}
+
+.toggle {
+  font-size: 30px;
+  cursor: pointer;
+  color: white;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+#scrollTop {
+  font-size: 20px;
+  background-color: Transparent;
+  border: none;
+  cursor: pointer;
+  padding: 15px;
+  display: none;
+}
+
+#resources li button {
+  font-size: 20px;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  border-top: 1px solid grey;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 13.4%;
+}
+
+#resources li button:hover {
+  background-color: rgba(0,0,0,0.73);
+  color: white;
+}
+
+.loader-wrapper {
+  position: relative;
+  margin: 20px;
+  height: 200px;
+}
+
+.loader {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#scrollTop {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  height: 150px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.favicon {
+  padding-right: 10px;
+  margin-bottom: 4px;
+  height: 20px;
+  width: 30px;
+}
+
+#chunk {
+  background: rgba(255,255,255,0.1);
+  width: 100%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+#chunk a {
+  color: #448aff;
+}
+
+.sidenav {
+  border-right: 1px solid black;
+  display: none;
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #448aff;
+  overflow-x: hidden;
+}
+
+.sidenav a {
+  padding-left: 10px;
+  background-color: Transparent;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+}
+
+.sidenav ul {
+  text-align: left;
+  padding-left: 0;
+}
+
+.sidenav-header {
+  height: auto;
+  background-color: rgba(0,0,0,0.73);
+}
+
+.sidenav button {
+  padding-left: 10px;
+  padding-top: 2px;
+  outline: none;
+  overflow: hidden;
+  border: none;
+  border-top: 1px solid;
+  text-align: left;
+  background-color: Transparent;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+  width: 100%;
+  transition: 0.3s;
+}
+
+.sidenav button:hover, .offcanvas button:focus {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.sidenav .closebtn {
+  color: black;
+  position: absolute;
+  top: 0;
+  right: 15px;
+  font-size: 32px;
+  height: 10px;
+}
+
+.toggle {
+  display: none;
+}
+
+.two {
+  padding-bottom: -10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  body {
+    background: url('../images/dark.png');
+  }
+
+  .toggle {
+    display: block;
+    background-color: #448aff;
+    width: 100%;
+  }
+
+  .tohide {
+    display: none;
+  }
+
+  .sidenav .Engineering {
+    border-bottom: 1px solid white;
+  }
+}
+
+@media screen and (min-width: 641px) {
+  #content {
+    margin-top: -10px;
+  }
+}
+
+@media screen and (max-width: 993px) {
+  #resources {
+    padding: 0;
+  }
+
+  #resources .IT {
+    width: 8%!important;
+  }
+
+  #resources .All {
+    width: 8%!important;
+  }
+
+  #resources .Engineering {
+    width: 19%!important;
+  }
+
+  #resources .Education {
+    width: 16%!important;
+  }
+
+  #resources .Catering {
+    width: 15%!important;
+  }
+}
+
+
+

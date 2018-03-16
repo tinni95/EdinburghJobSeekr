@@ -1,0 +1,25 @@
+a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
+	
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:29:"
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:36:"http://a9.com/-/spec/opensearch/1.1/";a:1:{s:12:"totalResults";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Job Search RSS";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:91:"https://www.fish4.co.uk/jobsrss/?Sectors=39&LocationId=2170&radiallocation=5&countrycode=GB";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 20 Dec 2017 03:19:44 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 20 Dec 2017 03:19:44 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:11:"Fish4.co.uk";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:1:{i:0;a:6:{s:4:"data";s:23:"
+			
+			
+			
+			
+			
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"ZigZag Education: Music Educational writers needed: 12.5% royalties";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:184:"
+£250-£300 per project:
+
+ZigZag Education:
+With hundreds of publication opportunities for the new specifications, ZigZag Education requires more authors
+Edinburgh, City of Edinburgh
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:104:"https://www.fish4.co.uk/job/7897231/music-educational-writers-needed-12-5-percent-royalties/?TrackID=239";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 15 Dec 2017 10:52:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:104:"https://www.fish4.co.uk/job/7897231/music-educational-writers-needed-12-5-percent-royalties/?TrackID=239";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:91:"https://www.fish4.co.uk/jobsrss/?Sectors=39&LocationId=2170&radiallocation=5&countrycode=GB";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:14:{s:12:"content-type";s:23:"text/xml; charset=utf-8";s:14:"content-length";s:3:"661";s:10:"connection";s:10:"keep-alive";s:13:"cache-control";s:55:"public, must-revalidate, max-age=0, no-cache=set-cookie";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Wed, 20 Dec 2017 03:19:44 GMT";s:7:"expires";s:29:"Wed, 20 Dec 2017 03:18:44 GMT";s:13:"last-modified";s:29:"Wed, 20 Dec 2017 03:19:44 GMT";s:10:"set-cookie";s:644:"FixedFacetDefaults=20752050,20752010; path=/, BrowserSession=0|0||4ceadc18-1329-4a1a-9dc5-9bd5ff6f3b6f|False|0|0|131582135847329392|131582135847329392||||1|0|1|00000000-0000-0000-0000-000000000000|False|||; expires=Wed, 20-Dec-2017 03:49:44 GMT; path=/; HttpOnly, AnonymousUserId=e451b0b7-11e1-43fa-a79e-2ec9ac57b1df; expires=Fri, 20-Dec-2019 03:19:44 GMT; path=/, JSMRI={c:1,dcs:2017-12-20T03:19:44.7329392+00:00,dls:null}; expires=Fri, 31-Dec-9999 23:59:59 GMT; path=/; HttpOnly, AWSELB=B791CFF6ADA4FC4B2578249E99FC709980C77A02FCB271DAD8ED2DAF9B9985DA7FAB76FDE088836D6DB36F343D51D40CD20B6F8BF9E462F0186D4EE1C1655797CCB6F9F9;PATH=/;MAX-AGE=900";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:12:"x-powered-by";s:7:"ASP.NET";s:7:"x-cache";s:20:"Miss from cloudfront";s:3:"via";s:64:"1.1 69cf24ae37ffa20a3643ef8de73fe74a.cloudfront.net (CloudFront)";s:11:"x-amz-cf-id";s:56:"PA8d6ah0X3uBHjkU-q-3a2-1hhsPqGQrea-X80kreayfGzJJ7KXVlg==";}s:5:"build";s:14:"20161112011328";}

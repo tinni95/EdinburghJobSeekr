@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:117:"http://www.scotcareers.co.uk/jobsrss/?Sectors=8&LocationId=2170%2C20752050%2C20752010&radiallocation=5&countrycode=GB";s:8:"feed_url";s:62:"https://www.fish4.co.uk/jobsrss/?LocationId=235&countrycode=GB";s:5:"build";s:14:"20161112011328";}
